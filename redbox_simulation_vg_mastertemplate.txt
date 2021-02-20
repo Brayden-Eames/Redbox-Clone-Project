@@ -1,0 +1,21 @@
+1. Halo: The Master Chief Collection,M,2014,The epic saga of the Master Chief, together for the first time on the same console. Including the 4 Main Halo Titles and Halo 3: ODST and Halo: Reach.
+2. Call of Duty: Modern Warfare Remaster,M,2019,Join Captain Price and the SAS in the remastered Campaign of Modern Warfare, in an attempt to stop a terrorist attack on London.
+3. Grand Theft Auto 5,M,2013,Enter the sprawling world of Los Santos, play the epic story mode with Michael, Trevor and Franklin, or join the GTA Online mode and play with friends.
+
+1. The Elder Scrolls V: Skyrim,M,2011,After escaping execution, the last living Dragonborn must grow in strength and power to defeat the dragons that have once again begun to plague the land of Skyrim.
+2. Final Fantasy 7 Remake,T,2020,A former soldier joins an eco-terrorist group in a mission against the electric power company he used to work for in order the protect the planet and their environment.
+3. The Witcher 3: Wild Hunt,M,2015,Geralt of Rivia, a monster hunter for hire, embarks on an epic journey to find his former apprentice, Ciri, before The Wild Hunt can capture her and bring about the destruction of the world.
+
+1. Forza: Horizon 4,E,2017,Experience a shared world with dynamic seasons. Explore beautiful scenery, collect over 450 cars and become a Horizon Superstar in historic Britain.
+2. The Crew 2,T,2018,Take on the American motorsports scene as you explore and dominate the entire USA with a wide variety of cars, bikes, boats, and planes.
+3. Forza Motorsport 7,E,2017,Forza 7 has over 700 cars, with more than 200 different configurations to race on across 32 locations, and introduces dynamic weather and customizable drivers.
+
+1. Resident Evil 3: Nemesis Remastered,M,2020,Jill Valentine must escape Racoon city amid the nightmarish T-Virus outbreak, all while being persued by the relentless bio-weapon Nemesis.
+2. The Evil Within 2,M,2017,Three years after the events at Beacon Mental Hospital, Sebastian Castellanos has left the Krimson City Police Department, but the mysterious organization MOBIUS gives him a chance to save his own thought-dead daughter.
+3. Outlast 2,M,2017,Investigative Journalists Blake and his wife Lynn, travel to the Arizona Desert to pursue a lead on a popular suicide, but are soon ambushed by a mysterious and terrifying cult.
+
+1. Halo Wars 2,T,2017,After spending decades in cryogenic sleep, the crew of the Spirit of Fire wake to find themselves on a Forerunner installation known as the Ark. But they are not alone.
+2. Stellaris,T,2016,Explore a vast galaxy full of wonder. Paradox Development Studio, makers of the Crusader Kings and Europa Universalis series presents Stellaris, an evolution of the grand strategy genre.
+3. Age of Wonders: Planetfall,T,2019,Age of Wonders: Planetfall is the new strategy game from Triumph Studios, creators of the critically acclaimed Age of Wonders series, bringing all the exciting tactical turn-based combat.
+
+

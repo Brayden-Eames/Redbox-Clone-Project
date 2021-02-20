@@ -1,0 +1,185 @@
+Project Plan: Redbox Simulation
+
+
+For my Final Project, I have decided to create a simulation of a Redbox Machine,
+minus actually paying and recieving your dvd or video game. The plan is to use 
+2 classes, class DVD and class VideoGame. The driver program will constitute of the 
+user interface through which you will select either a DVD or Video Game, and from
+there will be prompted to select a genre. After the genre is selected, you will
+be able to pick from a selection titles that match the genre. This logical flow
+will be the same for both DVD's and Video Games.  
+
+
+
+Sample Run of What Program Might Look Like:
+
+
+---------------------------------
+Welcome to Redbox!
+------------------
+
+Please Select A Format for Rental
+---------------------------------
+
+1. DVD
+
+2. Video Game
+
+
+Enter Selection Here: 
+--------------------------------
+
+
+
+****(Example of DVD Selection)**** 
+
+--------------------------------
+Format Selected: DVD
+--------------------------------
+
+Please Select a Genre:
+
+1. Action/Adventure
+
+2. Animated
+
+3. Comedy
+
+4. Documentary
+
+5. Drama
+
+6. Holiday
+
+7. Horror
+
+8. Kids and Family
+
+9. Romance
+
+10. Sci-Fi/Fantasy
+
+--------------------------------- 
+
+Please Enter Selection Here: 
+---------------------------------
+
+
+****(Example of Sci-fi/Fantasy Selection)****
+
+--------------------------------------------
+Genre Selected: Sci-fi/Fantasy
+--------------------------------------------
+Please Select a Title to Rent
+
+1. Star Wars: The Rise of Skywalker
+
+2. Mad Max: Fury Road
+
+3. Blade Runner: 2049
+
+4. Godzilla 
+
+5. Avengers: Endgame
+--------------------------------------------
+Please Select a Title to Rent: 
+--------------------------------------------
+
+****(Example of Avengers: Endgame Selection)****
+
+
+
+-------------------------------------------
+You Have Chosen: Avengers: Endgame!
+
+Here is your DVD:
+
+ _________________
+|# :           : #|
+|  :   Redbox  :  |
+|  :    DVD    :  |
+|  :           :  |
+|  :___________:  |
+|   ___________   |
+|  |           |  |
+|  |           |  |
+|__|___________|__|
+
+Enjoy! 
+-------------------
+
+
+
+****(End of Redbox Simulation)****
+
+
+Classes I will use:
+
+
+class DVD
+
+
+
+class VideoGames
+
+
+
+Each of these classes will have near-identical methods and functions that will 
+handle the selection of genre's and titles. 
+
+
+Each of these classes will have Association, in that they will work together but 
+can function independently of each other. 
+
+
+
+Methods to be used:
+
+
+class DVD:
+
+
+public:
+	selectGenre()
+	selectTitle()
+	confirmRental()
+
+
+
+
+
+class VideoGames:
+
+public:
+
+	selectGenre()
+	selectTitle()
+	confirmRental()
+
+
+
+
+Another part of this plan is that I intend to create several .csv files.
+Each file will correspond to a genre, and will be classified as either for DVD
+or Video games. (i.e for sci-fi/fantasy there will be 2 .csv files. sff_dvd.csv and 
+sff_vg.csv, that way I can simply code the titles and descriptions for each genre, whether
+it be for DVD's or video games.) This style of using .csv files for each genre will 
+allow me to fufill the requirement of being able to read in a file for my project. 
+
+
+
+ _________________
+|# :           : #|
+|  :   Redbox  :  |
+|  :   Video   :  |
+|  :   Game    :  |
+|  :___________:  |
+|   ___________   |
+|  |           |  |
+|  |           |  |
+|__|___________|__|
+
+
+
+
+
